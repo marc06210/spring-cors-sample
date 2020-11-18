@@ -37,5 +37,4 @@ public class RouterDeclaration {
 @AllArgsConstructor
 class Msg {
     private String what;
-    
 }
